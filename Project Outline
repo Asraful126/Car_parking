@@ -1,0 +1,12 @@
+Objective:  To address the number of parking bays occupied for different durations, the duration of each car's parking each day, enumeration of vehicles parked for more than four hours per day, and some other queries in the context of a railway parking area in Brisbane.
+
+Key Tasks: 
+1.	Receiving data and the project requirements from business.
+2.	Importing given data into Tableau desktop.
+3.	Defining and examining data quality in relation to the project requirements. 
+4.	Confirming data quality issues, visualizing and documenting the issues in Tableau and reporting the issues to the client.
+5.	Maintaining communication with the client to fix the data quality issues.
+
+Outcome: The data quality issues were reported to the client with proper definition and visualization showing almost 80% of the data was out of quality.
+
+Dashboard: https://shorturl.at/fjkJX
